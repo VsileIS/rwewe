@@ -4,6 +4,10 @@
 ---
 🔭Program for remote control of windows computers via cmd. Written in C++
 
+⭐Please, star this repo if it was helpful⭐
+
+Huge update soon
+
 ---
 
 ### ⛔Disclaimer⛔
