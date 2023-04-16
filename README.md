@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/tests-98/100-76B900?style=for-the-badge&logo=&logoColor=whit">
 <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=&logoColor=whit">
-<img src="https://img.shields.io/badge/HeatRAT-v2.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
-<img src="https://img.shields.io/badge/platform-windows-989898?style=for-the-badge&logo=&logoColor=whit">
+<img src="https://img.shields.io/badge/Heat:::RAT-v2.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
 
 [RAT+STEALER](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v2.0.0)
 ---
@@ -48,83 +47,83 @@ __Don't upload builded rat to Virustotal__. The more often you upload it, the mo
 > "!createFolder"
 >- create a folder on the victim's computer
 
-command = "!deleteFolder"
-using for: delete a folder on the victim's computer
+> "!deleteFolder"
+>- delete a folder on the victim's computer
 
-command = "!deleteFile"
-using for: delete a file on the victim's computer
+> "!deleteFile"
+>- delete a file on the victim's computer
 
-command = "!downloadFile"
-using for: download the file to the victim's computer
+> downloadFile"
+>- download the file to the victim's computer
 
-command = "!video"
-using for: rec the video from the victim's webcam, duration in seconds
+> "!video"
+>- rec the video from the victim's webcam, duration in seconds
 
-command = "!audio"
-using for: rec the audio from the victim's microphone, duration in seconds
+> "!audio"
+>- rec the audio from the victim's microphone, duration in seconds
 
-command = "!runFile"
-using for: run the file on the victim's computer
+> "!runFile"
+>- run the file on the victim's computer
 
-command = "!volume"
-using for: change the volume on the victim's computer
+> "!volume"
+>- change the volume on the victim's computer
 
-command = "!turnOff"
-using for: shutdown the victim's computer
+> "!turnOff"
+>- shutdown the victim's computer
 
-command = "!restart"
-using for: restart the victim's computer
+> "!restart"
+>- restart the victim's computer
 
-command = "!alt+f4"
-using for: alt+f4 =)
+> "!alt+f4"
+>- alt+f4 =)
 
-command = "!crazyCursor"
-using for: change mouse buttons
+> "!crazyCursor"
+>- change mouse buttons
 
-command = "!wallpaper"
-using for: change the wallpaper on the victim's compute
+> "!wallpaper"
+>- change the wallpaper on the victim's compute
 
-command = "!move"
-using for: move the virus to the directory
+> "!move"
+>- move the virus to the directory
 
-command = "!rename"
-using for: rename the virus
+> "!rename"
+>- rename the virus
 
-command = "!encrypt"
-using for: encrypt file on the victim's computer
+> "!encrypt"
+>- encrypt file on the victim's computer
 
-command = "!decrypt"
-using for: decrypt file on the victim's computer
+> "!decrypt"
+>- decrypt file on the victim's computer
 
-command = "!logs"
-using for: grab and send logs from the victim's computer
+> "!logs"
+>- grab and send logs from the victim's computer
 
-command = "!screamer"
-using for: screamer :O
+> "!screamer"
+>- screamer :O
 
-command = "!moveFile"
-using for: move the file to the directory on victim's computer
+> "!moveFile"
+>- move the file to the directory on victim's computer
 
-command = "!lock"
-using for: #winlock ('._.')
+> "!lock"
+>- #winlock ('._.')
 
-command = "!downloadFolder"
-using for: download folder to the victim's computer
+> "!downloadFolder"
+>- download folder to the victim's computer
 
-command = "!processes"
-using for: show process list
+> "!processes"
+>- show process list
 
-command = "!closeProces"
-using for: close process
+> "!closeProces"
+>- close process
 
-command = "!banTM"
-using for: ban task manager
+> "!banTM"
+>- ban task manager
 
-command = "!message"
-using for: show text message
+> "!message"
+>- show text message
 
-command = "!CMDbomb"
-using for: booom
+> "!CMDbomb"
+>- booom
 
 ---
  
@@ -134,7 +133,7 @@ using for: booom
 
 ![image](files_for_GitHub/Screenshot_1.png)
 
-![image](files_for_GitHub/Screenshot_2.png)
+Than press Ctrl+Shift+B. You'll find builted control panel in the folder release. After that, place .exe file like in this photo.
 
 ![image](files_for_GitHub/Screenshot_7.png)
 
