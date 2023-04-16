@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/tests-98/100-76B900?style=for-the-badge&logo=&logoColor=whit">
 <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=&logoColor=whit">
-<img src="https://img.shields.io/badge/Heat:::RAT-v2.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
+<img src="https://img.shields.io/badge/HeatRAT-v2.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
 <img src="https://img.shields.io/badge/platform-windows-989898?style=for-the-badge&logo=&logoColor=whit">
 
 [RAT+STEALER](https://github.com/Nick-Vinesmoke/Heat-RAT/releases/tag/HeatRAT_v2.0.0)
